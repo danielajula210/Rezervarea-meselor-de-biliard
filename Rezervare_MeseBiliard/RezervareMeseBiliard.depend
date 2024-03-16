@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682183800 source:d:\facultate\rezervare_mesebiliard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
